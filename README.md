@@ -18,3 +18,7 @@ Port    =  5000
   + Keep alive
   + Duplicate client information
   + Server recieved information
+
+#Client-MPU6050
+  + Sending Data to Server
+  + MPU6050 I2C Connection
